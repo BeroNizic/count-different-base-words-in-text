@@ -1,6 +1,6 @@
 # count-different-base-words-in-text
 
-Count different lemmas ("base words")  in some txt with.
+Count different lemmas ("base words")  in some txt file.
 
 usage:
 
